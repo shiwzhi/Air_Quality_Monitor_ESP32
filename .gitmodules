@@ -1,0 +1,15 @@
+[submodule "components/scd4x/embedded-i2c-scd4x"]
+	path = components/scd4x/embedded-i2c-scd4x
+	url = https://github.com/Sensirion/embedded-i2c-scd4x.git
+[submodule "components/bmp280/BMP2-Sensor-API"]
+	path = components/bmp280/BMP2-Sensor-API
+	url = https://github.com/boschsensortec/BMP2-Sensor-API.git
+[submodule "components/sgp4x/embedded-i2c-sgp40"]
+	path = components/sgp4x/embedded-i2c-sgp40
+	url = https://github.com/Sensirion/embedded-i2c-sgp40.git
+[submodule "components/sgp4x/gas-index-algorithm"]
+	path = components/sgp4x/gas-index-algorithm
+	url = https://github.com/Sensirion/gas-index-algorithm.git
+[submodule "components/u8g2"]
+	path = components/u8g2
+	url = https://github.com/olikraus/u8g2.git
